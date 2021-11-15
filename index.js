@@ -11,7 +11,7 @@ if (Platform.OS !== 'web') {
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
       <Text>
         Use <Text style={{ fontWeight: 'bold' }}>yarn start</Text> to start up Next.js rather than
-        loading it through expo-cli. Use expo-cli to open the directory iOS and Android apps.
+        loading it through expo-cli. Use exp-cli to open the directory iOS and Android apps.
       </Text>
     </View>
   ));
